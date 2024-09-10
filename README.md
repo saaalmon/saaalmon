@@ -1,4 +1,10 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={saaalmon}&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaalmon&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=saaalmon&theme=onedark&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=saaalmon&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **saaalmon/saaalmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
